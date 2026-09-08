@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on:  AI/ML projects and improving my programming skills through real-world projects.<br><br>👯 I’m looking to collaborate on:  Open-source projects, AI/ML applications, and interesting software projects.<br><br>🤝 I’m looking for help with:  Advanced AI/ML concepts, system design, and writing better, scalable code.<br><br>🌱 I’m currently learning: Python, C++, Data Structures & Algorithms, Machine Learning, and AI.<br><br>💬 Ask me about:  Python, C/C++, DSA, AI/ML, and my projects.<br><br>⚡ Fun fact: I enjoy turning complex problems into simple, working solutions.<br>
+🔭 I’m currently working on:  AI/ML projects and improving my programming skills through real-world projects.<br><br>👥 I’m looking to collaborate on:  Open-source projects, AI/ML applications, and interesting software projects.<br><br>🤝 I’m looking for help with:  Advanced AI/ML concepts, system design, and writing better, scalable code.<br><br>🌱 I’m currently learning: Python, C++, Data Structures & Algorithms, Machine Learning, and AI.<br><br>💬 Ask me about:  Python, C/C++, DSA, AI/ML, and my projects.<br><br>⚡ Fun fact: I enjoy turning complex problems into simple, working solutions.<br>
 
 
 ## 🌐 Socials:
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=avan-de-haris&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=avan-de-haris&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=avan-de-haris&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=avan-de-haris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
