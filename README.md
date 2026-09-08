@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 🔭 I’m currently working on:  AI/ML projects and improving my programming skills through real-world projects.<br><br>👯 I’m looking to collaborate on:  Open-source projects, AI/ML applications, and interesting software projects.<br><br>🤝 I’m looking for help with:  Advanced AI/ML concepts, system design, and writing better, scalable code.<br><br>🌱 I’m currently learning: Python, C++, Data Structures & Algorithms, Machine Learning, and AI.<br><br>💬 Ask me about:  Python, C/C++, DSA, AI/ML, and my projects.<br><br>⚡ Fun fact: I enjoy turning complex problems into simple, working solutions.<br>
 
@@ -16,10 +16,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=avan-de-haris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=avan-de-haris&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
