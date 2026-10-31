@@ -45,13 +45,12 @@ I am a results-oriented **Software Engineer** specializing in **Machine Learning
 <table>
   <thead>
     <tr>
-      <th width="45%">Project & Tech</th>
-      <th width="40%">Key Highlights & Architectural Impact</th>
-      <th width="15%">Links</th>
+      <th width="42%">Project &amp; Tech</th>
+      <th width="44%">Key Highlights &amp; Architectural Impact</th>
+      <th width="14%" align="center">Links</th>
     </tr>
   </thead>
   <tbody>
-    <!-- Project 1 -->
     <tr>
       <td>
         <b>🏠 PriceIQ Pakistan — House Price Prediction Engine</b><br/>
@@ -71,8 +70,6 @@ I am a results-oriented **Software Engineer** specializing in **Machine Learning
         <a href="https://github.com/avan-de-haris/-House-Price-Prediction-"><b>Source Code</b></a>
       </td>
     </tr>
-
-    <!-- Project 2 -->
     <tr>
       <td>
         <b>📷 Automated Facial Recognition Attendance System</b><br/>
@@ -92,8 +89,6 @@ I am a results-oriented **Software Engineer** specializing in **Machine Learning
         <a href="https://github.com/avan-de-haris/Facial-Recognition-Attendance-System"><b>Source Code</b></a>
       </td>
     </tr>
-
-    <!-- Project 3 -->
     <tr>
       <td>
         <b>🎓 Student Management CRUD Platform</b><br/>
@@ -113,8 +108,6 @@ I am a results-oriented **Software Engineer** specializing in **Machine Learning
         <a href="https://github.com/avan-de-haris/Student-CRUD-App-Django-"><b>Source Code</b></a>
       </td>
     </tr>
-
-    <!-- Project 4 -->
     <tr>
       <td>
         <b>🍔 Food Delivery Experience Prototype</b><br/>
